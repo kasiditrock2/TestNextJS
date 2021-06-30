@@ -16,3 +16,4 @@ git remote add origin https://github.com/kasiditrock2/TestNextJS.git
 
 git push -u origin main //command upload files
 
+end
