@@ -2,9 +2,11 @@
 
 echo "# TestNextJS" >> README.md
 
-git init //ต้อง inint ก่อนทำการอัพโปรเจค
+git init //ต้อง inint ก่อนทำการอัพโปรเจค เพื่อเพิ่มสิ่งที่ต้องการ
 
-git add . // push all files
+git add README.md //select just1 file
+
+git add . // select all files in project
 
 git commit -m "first commit"
 
