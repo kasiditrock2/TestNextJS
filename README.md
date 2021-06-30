@@ -14,5 +14,5 @@ git branch -M main
 
 git remote add origin https://github.com/kasiditrock2/TestNextJS.git
 
-git push -u origin main //push project
+git push -u origin main //command upload files
 
